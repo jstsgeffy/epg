@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="Original XML Generated with Tempest EPG Generator Processed by Open-EPG Visual Processor v0.9">
+<channel id="Apple TV.id"><display-name>Apple TV.id</display-name></channel>
+<programme start="20250219000000 +0000" stop="20900101235900 +0000" channel="Apple TV.id"><title>APPLE TV FREE</title><desc>Stream Berbagai Macam Liga-Liga Top Eropa Dan Dunia, Serta TV Lokal Indonesia Secara Gratis</desc></programme>
+<channel id="Bioskop Apple TV.id"><display-name>Bioskop Apple TV.id</display-name></channel>
+<programme start="20250219000000 +0000" stop="20900101235900 +0000" channel="Bioskop Apple TV.id"><title>BIOSKOP BY APPLE TV</title><desc>Stream Berbagai Macam Liga-Liga Top Eropa Dan Dunia, Serta TV Lokal Indonesia Secara Gratis</desc></programme>
+</tv>
